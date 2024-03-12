@@ -22,8 +22,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leined18&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelucky342&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leined18&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
 
 4:43
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ismaelucky342)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Leined18)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-hernandez-2a721a266/)
