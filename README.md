@@ -6,7 +6,7 @@
 
 ## ▪️ See my 42cursus progress ↙️ 
 
-◦ [42cursus progress](https://github.com/danpalac/42cursus)
+◦ [42cursus progress](https://github.com/danpalac/42DanCursus)
 
 ## ▪️ Github stats 📊
 
