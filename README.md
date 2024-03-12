@@ -2,7 +2,7 @@
 
 ## ▪️ I'm student at [42 Madrid](https://www.42madrid.com/es/)
 
-[![Danpalac's 42 stats](https://badge.mediaplus.ma/binary/Leined18?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![Danpalac's 42 stats](https://badge.mediaplus.ma/binary/danpalac?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## ▪️ See my 42cursus progress ↙️ 
 
