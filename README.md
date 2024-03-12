@@ -1,29 +1,29 @@
-## Daniel Palacios
+<h1 align="center"> Hi, I’m Danpalac </h1>
 
-## Languages and Tools
-  <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/e5c556b4-a10b-4681-ae27-2a3ee423bd4f"></code>
-  <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/8c0d4b04-676d-4fb5-b6cd-304c4d0e55a9"></code>
-  <br />
-  <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/11de78a9-4965-4545-b83c-9933424e1e84"></code>
-  <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/54282c33-9966-490f-83ad-130ca9341fcf"></code>
-  <br />
-  <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/63b2bbf8-f177-410f-ad34-1f970997e781"></code>
-  <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/aacdea5e-c951-4420-854f-2c91a0a84f69"></code>
-  <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/34d6658f-b3d1-4c86-b4d1-c5928317d6d8"></code>
-  <br />
-   <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/213d9735-ae72-4b21-ac7c-3db4af8f327f"></code>
-    <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/4d046d59-cef8-4cea-a06f-cd3658de557e"></code>
-     <code><img width="5%" src="https://github.com/ismaelucky342/ismaelucky342/assets/153450550/4ec23139-3673-432c-bb44-77bfcfc2099b"></code>
-   <br />
-</p>
-## My Github Info :bar_chart:
+## ▪️ I'm student at [42 Barcelona](https://www.42madrid.com/es/)
 
-[![codewars badge](https://www.codewars.com/users/Leined18/badges/large)](https://www.codewars.com/users/Leined18)
+[![Danpalac's 42 stats](https://badge.mediaplus.ma/binary/danpalac?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leined18&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+## ▪️ See my 42cursus progress ↙️ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leined18&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
+◦ [42cursus progress](https://github.com/danpalac/42cursus)
 
-4:43
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Leined18)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-hernandez-2a721a266/)
+## ▪️ Github stats 📊
+
+![Leined18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leined18&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leined18&layout=compact&theme=github_dark)
+
+## ▪️ Tech Stack
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="git" width="40" height="40"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"/><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="<GitHub" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40"/>
+
+
+## ▪️ Contact me 📥
+
+Email: danpalac@student.42madrid.com
+
+<a href='mailto:danpalac@student.42madrid.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+</a>
+
+<a href='https://www.linkedin.com/in/danpalac/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+</a>
